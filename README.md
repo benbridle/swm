@@ -5,7 +5,7 @@ Silica is a simple terminal user interface framework for Python. It provides a s
 
 ## Setup
 
-Clone the project and run `pip3 install --no-index swm`. 
+Clone the project and run `pip3 install --no-index swm` to install. 
 
 ## Usage
 At the top of your script add `from swm import silica` and `silica.setup()`, and then you're ready to go.
