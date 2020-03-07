@@ -8,7 +8,7 @@ Silica is a simple terminal user interface framework for Python. It provides a s
 Clone the project and run `pip3 install --no-index swm`. 
 
 ## Usage
-At the top of your script add `from swm import silica`.
+At the top of your script add `from swm import silica` and `silica.setup()`, and then you're ready to go.
 
 To add a window that fills the screen, call `silica.add_window((0,0,-1,-1), "big_window")`. `big_window` is a unique identifier that can be used to get a reference to the window.
 
