@@ -1,13 +1,13 @@
-#Silica Window Manager
+# Silica Window Manager
 
 Silica is a simple terminal user interface framework for Python. It provides a simple API for getting user input, styling text, and drawing text inside windows. 
 
 
-##Setup
+## Setup
 
 Clone the project and run `pip3 install --no-index swm`. 
 
-##Usage
+## Usage
 At the top of your script add `from swm import silica`.
 
 To add a window that fills the screen, call `silica.add_window((0,0,-1,-1), "big_window")`. `big_window` is a unique identifier that can be used to get a reference to the window.
