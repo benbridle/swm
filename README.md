@@ -2,6 +2,7 @@
 
 Silica is a simple terminal user interface framework for Python. It provides a simple API for getting user input, styling text, and drawing text inside windows. 
 
+![Screenshot from 2020-03-11 15-01-42](https://i.imgur.com/f9U1f6D.png)
 
 ## Setup
 
